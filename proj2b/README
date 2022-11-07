@@ -1,0 +1,1 @@
+This part of the project is the complete implementation of the NGordnet tool to hndle multiple words, and different ranges of times. It will also take into account the relative popularity of words and a return a specific number of words upon request. 
