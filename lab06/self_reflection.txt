@@ -1,0 +1,63 @@
+You must answer at least 4 questions, but the remaining ones are optional. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: Once I understood the circular method, I felt that I was able to implement ArrayDeque quickly and more efficiently. This understanding made it a much easier coding process. I think I did a good job of thinking through my steps before writing the code which worked well for me. 
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: I learned that we both used similar approaches, but their remove last and remove first method was  overcomplicated. Instead of redefining the variables in multiple cases, I could have defined the if cases of the method in a better way to be more concise. 
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I wish I understood how to the approach the circular method earlier in the project. It would have saved me a lot of time and effort trying to understand while I implemented the code. 
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I struggled with the RemoveLast and RemoveFirst. My code was very long and could have been done more methodically and intuitively. My code failed one test and instead of fixing, I didn't think about how to approach it holistically and just made a specific part for the test case. This was not the best way to go about it. 
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: In the staff solution, the linked list implementation was less repetitive, and I realized I did not need to include a lot of lines of code because I had already taken care of the cases.  
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I understood the circular method easily, so I think I did a good job of implementing it in my code. I used the next and previous nodes in an efficient way. 
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: My boolean equals method was bulky and definitely been reworked to be more concise. 
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: I could have stored the old node and used it to add a node instead of changing the pointers directly. 
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: 
