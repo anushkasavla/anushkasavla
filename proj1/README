@@ -1,0 +1,1 @@
+"Build implementations of a “Double Ended Queue” using both lists and arrays in a package that other classes can use. In the application part of this project, you’ll create a Java file MaxArrayDeque.java as well as use your package to ultimately implement a sound synthesizer capable of playing music from Guitar Hero"
