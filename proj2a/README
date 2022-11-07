@@ -1,0 +1,5 @@
+In this project, we will build a browser based tool for exploring the history of word usage in English texts.To support this tool, you will write a series of Java packages that will allow for data analysis. 
+
+The Google Ngram dataset provides many terabytes of information about the historical frequencies of all observed words and phrases in English (or more precisely all observed ngrams). Google provides the Google Ngram Viewer on the web , allowing users to visualize the relative historical popularity of words and phrases. For example, the link above plots the relative popularity of the phrases “global warming” (a 2gram) and “to the moon” (a 3gram).
+
+In project 2a, you will be build a version of this tool that only handles 1grams. In other words, you’ll only be able to handle individual words.
